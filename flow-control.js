@@ -40,10 +40,9 @@ function switchAge(age) {
   var age = 13
   switch (age) {
     case 13:
-    
-
+    return: "You are a teenager"
       break;
-    default:
+    default: :"You have an age"
 
   }
 
