@@ -37,5 +37,8 @@ function ternaryTeenager(age) {
 }
 
 function switchAge(age) {
+  case expression:
+  console.console.log("You are a teenager");
+    break;
 
 }
