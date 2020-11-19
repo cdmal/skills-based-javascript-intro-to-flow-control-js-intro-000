@@ -71,8 +71,8 @@ function switchAge(age) {
 
 
 
-      
-      
+
+
     default:
 
   }
